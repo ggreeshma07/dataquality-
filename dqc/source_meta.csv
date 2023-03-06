@@ -1,0 +1,5 @@
+﻿id,file_name,source_type,source_path,output_path,email_to,email_cc
+1,sample_data_dq,csv,C:/Users/abhinav.anand/Desktop/dq_check/sample_data_dq.csv,,abhinav.anand@tigeranalytics.com,chetan.jaamdar@tigeranalytics.com
+2,test_data,csv,C:/Users/abhinav.anand/Desktop/dq_check/test_data.csv,,abhinav.anand@tigeranalytics.com,chetan.jaamdar@tigeranalytics.com
+3,covid_dataset,csv,C:/Users/abhinav.anand/Desktop/dq_check/covid_dataset.csv,,abhinav.anand@tigeranalytics.com,chetan.jaamdar@tigeranalytics.com
+4,movies,csv,C:/Users/abhinav.anand/Desktop/dq_check/movies.csv,,abhinav.anand@tigeranalytics.com,chetan.jaamdar@tigeranalytics.com
